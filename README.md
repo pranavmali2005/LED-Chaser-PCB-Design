@@ -26,6 +26,20 @@ The project includes circuit schematic design, PCB layout, routing and Gerber ge
 | PCB_Layout | PCB layout and 3D view images |
 | Gerber_Files | Manufacturing Gerber and drill files |
 
+## PCB Design Preview
+
+### PCB Layout
+![PCB Layout](PCB_Layout/PCB_Layout.png)
+
+### 3D PCB View
+![3D PCB View](PCB_Layout/PCB_3D_View.png)
+
+## Schematic
+[View Schematic PDF](Schematic/LED_chaser_ckt.pdf)
+
+## Manufacturing Files
+[Download Gerber Files](Gerber_Files/)
+
 ## Design Status
 - Schematic: Completed
 - PCB layout: Completed
