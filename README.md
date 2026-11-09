@@ -6,6 +6,14 @@ A circular LED Chaser circuit designed using KiCad 10, based on the NE555 timer 
 
 The project includes circuit schematic design, PCB layout, routing and Gerber generation.
 
+### 1. 555 Timer + CD4017 LED Chaser PCB Design
+- Designed a circular PCB using KiCad 10.
+- Completed schematic capture, PCB layout and routing.
+- Generated Gerber and Excellon drill files.
+- Created a 3D PCB visualization.
+
+[View Project](https://github.com/pranavmali2005/LED-Chaser-PCB-Design)
+
 ## Tools Used
 - KiCad 10
 - NE555 Timer IC
